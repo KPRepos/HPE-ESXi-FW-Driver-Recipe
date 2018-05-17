@@ -1,6 +1,9 @@
 
 #CSV File with Minimum FW-DR info supported for ESXI 6.5U1
-del</th>
+    
+<table>
+  <tr>
+    <th>Server Model</th>
     <th>Card-Name</th>
     <th>ESXi-ID</th>
     <th>Type</th>
