@@ -1,20 +1,6 @@
-# HPE-ESXi-FW-Driver-Recipe
-Used http://www.tablesgenerator.com to generate Tables for the Files
 
-ESXI-65U2 Recipe referred and validated from
- https://downloads.hpe.com/pub/softlib2/software1/publishable-catalog/p202943209/v138521/SPP2018.09.0ComponentNotes.pdf
+#CSV File with Minimum FW-DR info supported for ESXI 6.5U2
 
- https://www.hpe.com/us/en/servers/hpe-esxi.html
-
-FYI:-
-The usual recipe = "HPE-ESXi-6.5.0-Update2-iso-Gen9plus-650.U2.10.3.5.5" + "SPP-Sep 2018" + "Latest Vmware ESXi patches"
-
-
-Read/Open [ESXi-65U2.md](ESXi-65U2.md)
-
-
-The contents of above file's are ...
-    
 <table>
   <tr>
     <th>Server Model</th>
